@@ -1,0 +1,6 @@
+C:\Users\Fabio\Desktop\C# ANW - Aufgaben\Arbeitsauftrag-Umweltmessung\Arbeitsauftrag-Umweltmessung\bin\Debug\Arbeitsauftrag-Umweltmessung.exe.config
+C:\Users\Fabio\Desktop\C# ANW - Aufgaben\Arbeitsauftrag-Umweltmessung\Arbeitsauftrag-Umweltmessung\bin\Debug\Arbeitsauftrag-Umweltmessung.exe
+C:\Users\Fabio\Desktop\C# ANW - Aufgaben\Arbeitsauftrag-Umweltmessung\Arbeitsauftrag-Umweltmessung\bin\Debug\Arbeitsauftrag-Umweltmessung.pdb
+C:\Users\Fabio\Desktop\C# ANW - Aufgaben\Arbeitsauftrag-Umweltmessung\Arbeitsauftrag-Umweltmessung\obj\Debug\Arbeitsauftrag-Umweltmessung.exe
+C:\Users\Fabio\Desktop\C# ANW - Aufgaben\Arbeitsauftrag-Umweltmessung\Arbeitsauftrag-Umweltmessung\obj\Debug\Arbeitsauftrag-Umweltmessung.pdb
+C:\Users\Fabio\Desktop\C# ANW - Aufgaben\Arbeitsauftrag-Umweltmessung\Arbeitsauftrag-Umweltmessung\obj\Debug\Arbeitsauftrag-Umweltmessung.csprojResolveAssemblyReference.cache
